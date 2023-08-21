@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Kirthevasen K](mailto:kirthevasen.k@owasp.org)
+* [Surya Prakash G](mailto:suryaprakash.g@owasp.org)
+* [Belshia Jebamalar G](mailto:belshiajebamalar.g@owasp.org)
+* [Balakrishman C](mailto:balakrishman.c@owasp.org)
